@@ -1,6 +1,6 @@
 # CultForge
 
-**[CultForge](www.cultforge.com)** is a next-generation, community-centric Minecraft launcher designed to eliminate the friction of modded multiplayer. It transforms the complex "modpack installation" process into a seamless, one-click experience, ensuring that players and servers are always in perfect sync.
+**[CultForge](https://www.cultforge.com)** is a next-generation, community-centric Minecraft launcher designed to eliminate the friction of modded multiplayer. It transforms the complex "modpack installation" process into a seamless, one-click experience, ensuring that players and servers are always in perfect sync.
 
 ---
 
